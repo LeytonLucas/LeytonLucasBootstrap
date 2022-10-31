@@ -1,0 +1,16 @@
+img{
+    height:350px;
+}
+
+
+body{
+    background-color: rgb(31, 30, 29) !important;
+    color: white !important;
+}
+
+.icon{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+    margin-top: 10px;
+}
